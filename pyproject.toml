@@ -1,0 +1,10 @@
+[metadata]
+Author="Muminul Islam"
+Handle="_MUMINUL__ISLAM___"
+
+[build-system]
+
+[project]
+name="Data_Structure_Algorithm_05"
+version="1.0.0"
+dependencies="pytest"
